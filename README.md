@@ -11,7 +11,7 @@
 :روش اول با استفاده از ترموکس و لینوکس
 </b></br>
 ابتدا وارد ترموکس بشید و با دستور زیر اسکریپت رو دانلود کنید
-<br><pre>git clone https://github.com/HACKGM/hack-pattern</pre>
+<br><pre>git clone https://github.com/tHACKGM/hack-pattern</pre>
 سپس با دستور زیر وارد پوشه اسکریپت بشید:
 <br><pre>
 cd hack-pattern
